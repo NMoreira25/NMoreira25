@@ -71,6 +71,9 @@ s que podem estar "assombrados" por bugs e falhas.
 
 ### 🕯️ Sobre os Investigadores:
 
+![Ed-e-Lorraine-Warren-MacabraTV07](https://github.com/user-attachments/assets/8f6128d8-ff07-48e1-b3b5-b2126441a979)
+
+
 - **Ed e Lorraine Warren**: Casal de investigadores paranormais que inspiraram a série **Invocação do Mal**. Aqui, você vai encontrar projetos relacionados à investigação de "fenômenos estranhos", como falhas inexplicáveis no código, ou até soluções para "bugs fantasmas" que assombram o software.
 - **Demonólogos Digitais**: Aqueles que olham para o código e tentam "expulsar" qualquer mal (ou erro) que possa estar corrompendo o sistema.
 
