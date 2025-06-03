@@ -3,6 +3,8 @@
 Olá, meu nome é **Nathalia Moreira**! Tenho **15 anos** e sou uma **corintiana fanática** (isso mesmo, Timão no coração 💛🖤)! Apesar de ser jovem, já estou começando a trilhar meu caminho no mundo da programação e também construindo o sonho de um dia me tornar uma **advogada criminalista**.
 
 ### ⚖️ Quem Sou Eu:
+![smiling-1232_128](https://github.com/user-attachments/assets/cff3c0ec-4916-44db-b595-1530b9dc8a45)
+
 
 - **Idade**: 15 anos
 - **Sonho**: Ser **advogada criminalista**, defender os direitos das pessoas e lutar por justiça.
@@ -28,6 +30,9 @@ Estou aprendendo programação, e este repositório é onde compartilho meus pri
 - **Torcedora fanática do Corinthians**: Sempre no estádio ou acompanhando a torcida, não perco um jogo!
 - **Irmão incrível**: Tenho um irmão que sempre está ao meu lado, seja para me apoiar ou para brincar.
 - **Meus Sonhos**: Continuar estudando, aprendendo e trabalhando duro para alcançar minha carreira como advogada criminalista, sendo uma profissional ética, justa e com muito conhecimento!
+
+![anigif](https://github.com/user-attachments/assets/aca0e736-89c4-4988-a7e4-15988040cd43)
+
 
 ### 🚀 O que está por vir:
 
@@ -56,8 +61,11 @@ Se você está no mundo da programação, ou quer ajudar alguém a alcançar seu
 Bem-vindo ao meu repositório, onde a linha entre o mundo físico e o sobrenatural se apaga. Aqui, nós investigamos os mistérios mais obscuros do universo da programação, com o mesmo fervor e coragem que os investigadores paranormais da série **Invocação do Mal**!
 
 ### 💀 O que você vai encontrar aqui:
+![giphy](https://github.com/user-attachments/assets/69b481f8-7fe8-4d05-b7b4-7e6c6e835757)
 
-- **Mistérios do código**: Enigmas e problemas complexos que podem estar "assombrados" por bugs e falhas.
+
+- **Mistérios do código**: Enigmas e problemas complexo 
+s que podem estar "assombrados" por bugs e falhas.
 - **Investigações paranormais**: Ferramentas e projetos relacionados ao oculto, como "bots" para detecção de falhas inexplicáveis ou sistemas de alerta de erros fantasmagóricos.
 - **Histórias de terror**: Documentos, artigos e até códigos de terror (sim, pode ter muito código assustador aqui) inspirados pelo universo de **Invocação do Mal**.
 
